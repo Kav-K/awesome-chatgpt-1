@@ -49,6 +49,7 @@
 - [Windows, Mac, Linux desktop app](https://github.com/sonnylazuardi/chatgpt-desktop)
 - [Jetbrains IDEs plugin](https://github.com/LiLittleCat/intellij-chatgpt)
 - [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
+- [Full Fledged GPT Discord Bot](https://github.com/Kav-K/GPTDiscord) - A robust OpenAI integration for Discord, with multi-modal chat, internet chat, code interpreter, infinite length convos, and much more.
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
 - [MindMac](https://mindmac.app) - An intuitive macOS app, powered by ChatGPT API and designed for maximum productivity. Built-in prompt templates, support GPT-3.5 and GPT-4. Currently available in 15 languages.
 
